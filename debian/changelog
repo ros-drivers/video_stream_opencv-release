@@ -1,0 +1,14 @@
+ros-kinetic-video-stream-opencv (1.0.2-0xenial) xenial; urgency=high
+
+
+
+ -- Sammy Pfeiffer <Sammy.Pfeiffer@student.uts.edu.au>  Sun, 13 Nov 2016 13:00:00 -0000
+
+ros-kinetic-video-stream-opencv (1.0.1-0xenial) xenial; urgency=high
+
+  * Releasable version
+  * Contributors: Sammy Pfeiffer, Stefano Probst, Wiebe Van Ranst
+
+ -- Sammy Pfeiffer <Sammy.Pfeiffer@student.uts.edu.au>  Sun, 13 Nov 2016 13:00:00 -0000
+
+
