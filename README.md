@@ -1,3 +1,26 @@
+## video_stream_opencv (kinetic) - 1.0.2-2
+
+The packages in the `video_stream_opencv` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release video_stream_opencv --track kinetic --rosdistro kinetic --new-track` on `Thu, 23 Mar 2017 15:05:33 -0000`
+
+The `video_stream_opencv` package was released.
+
+Version of package(s) in repository `video_stream_opencv`:
+
+- upstream repository: https://github.com/ros-drivers/video_stream_opencv.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `1.0.2-1`
+- new version: `1.0.2-2`
+
+Versions of tools used:
+
+- bloom version: `0.5.25`
+- catkin_pkg version: `0.3.1`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.1`
+- vcstools version: `0.1.39`
+
+
 ## video_stream_opencv (kinetic) - 1.0.2-1
 
 The packages in the `video_stream_opencv` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release video_stream_opencv --track kinetic --rosdistro kinetic --new-track` on `Thu, 23 Mar 2017 14:45:38 -0000`
