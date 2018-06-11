@@ -1,0 +1,41 @@
+ros-lunar-video-stream-opencv (1.1.2-0stretch) stretch; urgency=high
+
+  * Fix empty frame id in camera info header when providing a calibration file.
+  * Contributors: tim-fan
+
+ -- Sammy Pfeiffer <Sammy.Pfeiffer@student.uts.edu.au>  Mon, 11 Jun 2018 14:00:00 -0000
+
+ros-lunar-video-stream-opencv (1.1.1-0stretch) stretch; urgency=high
+
+  * Fix error of using camera_name instead of identifying the type of the provider
+    to check when the provider is a video file, and act accordingly in the producer thread
+  * Prevent locking when ROS SIGINT arrives and the image queue is empty.
+  * Added rate limiting to camera_fps_rate also if videofile is used as input
+  * Contributors: Andrea Ranieri, Avio, Sam Pfeiffer, Sammy Pfeiffer
+
+ -- Sammy Pfeiffer <Sammy.Pfeiffer@student.uts.edu.au>  Thu, 19 Apr 2018 14:00:00 -0000
+
+ros-lunar-video-stream-opencv (1.1.0-0stretch) stretch; urgency=high
+
+  * Update to use thread to read.
+    Update to new parameters.
+    Update description.
+  * Fixed image flip bug, the flip implementation is inconsistent with OpenCV API.
+  * Contributors: Sammy Pfeiffer, Zihan Chen, kantengri
+
+ -- Sammy Pfeiffer <Sammy.Pfeiffer@student.uts.edu.au>  Thu, 22 Mar 2018 13:00:00 -0000
+
+ros-lunar-video-stream-opencv (1.0.2-0stretch) stretch; urgency=high
+
+
+
+ -- Sammy Pfeiffer <Sammy.Pfeiffer@student.uts.edu.au>  Sun, 13 Nov 2016 13:00:00 -0000
+
+ros-lunar-video-stream-opencv (1.0.1-0stretch) stretch; urgency=high
+
+  * Releasable version
+  * Contributors: Sammy Pfeiffer, Stefano Probst, Wiebe Van Ranst
+
+ -- Sammy Pfeiffer <Sammy.Pfeiffer@student.uts.edu.au>  Sun, 13 Nov 2016 13:00:00 -0000
+
+
