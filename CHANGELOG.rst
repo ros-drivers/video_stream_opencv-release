@@ -2,6 +2,11 @@
 Changelog for package video_stream_opencv
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.1.2 (2018-06-12)
+------------------
+* Fix empty frame id in camera info header when providing a calibration file.
+* Contributors: tim-fan
+
 1.1.1 (2018-04-20)
 ------------------
 * Fix error of using camera_name instead of identifying the type of the provider
