@@ -1,3 +1,26 @@
+## video_stream_opencv (lunar) - 1.1.3-0
+
+The packages in the `video_stream_opencv` repository were released into the `lunar` distro by running `/usr/bin/bloom-release --rosdistro lunar --track lunar video_stream_opencv` on `Wed, 11 Jul 2018 04:27:21 -0000`
+
+The `video_stream_opencv` package was released.
+
+Version of package(s) in repository `video_stream_opencv`:
+
+- upstream repository: https://github.com/ros-drivers/video_stream_opencv.git
+- release repository: https://github.com/ros-drivers/video_stream_opencv-release.git
+- rosdistro version: `1.1.2-0`
+- old version: `1.1.2-0`
+- new version: `1.1.3-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.6`
+- catkin_pkg version: `0.3.7`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.40`
+
+
 ## video_stream_opencv (melodic) - 1.1.3-0
 
 The packages in the `video_stream_opencv` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --rosdistro melodic --track melodic video_stream_opencv` on `Wed, 11 Jul 2018 04:17:29 -0000`
