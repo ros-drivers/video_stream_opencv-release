@@ -1,3 +1,26 @@
+## video_stream_opencv (indigo) - 1.1.5-0
+
+The packages in the `video_stream_opencv` repository were released into the `indigo` distro by running `/usr/bin/bloom-release video_stream_opencv --rosdistro indigo` on `Fri, 14 Dec 2018 08:07:01 -0000`
+
+The `video_stream_opencv` package was released.
+
+Version of package(s) in repository `video_stream_opencv`:
+
+- upstream repository: https://github.com/ros-drivers/video_stream_opencv.git
+- release repository: https://github.com/ros-drivers/video_stream_opencv-release.git
+- rosdistro version: `1.1.4-0`
+- old version: `1.1.4-0`
+- new version: `1.1.5-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.7`
+- catkin_pkg version: `0.4.9`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## video_stream_opencv (kinetic) - 1.1.5-0
 
 The packages in the `video_stream_opencv` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release video_stream_opencv --rosdistro kinetic` on `Fri, 14 Dec 2018 08:00:18 -0000`
