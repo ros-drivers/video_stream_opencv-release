@@ -1,3 +1,26 @@
+## video_stream_opencv (melodic) - 1.1.5-1
+
+The packages in the `video_stream_opencv` repository were released into the `melodic` distro by running `/usr/local/bin/bloom-release --rosdistro melodic --track melodic video_stream_opencv` on `Mon, 07 Dec 2020 12:38:16 -0000`
+
+The `video_stream_opencv` package was released.
+
+Version of package(s) in repository `video_stream_opencv`:
+
+- upstream repository: https://github.com/ros-drivers/video_stream_opencv.git
+- release repository: https://github.com/ros-drivers/video_stream_opencv-release.git
+- rosdistro version: `1.1.5-0`
+- old version: `1.1.5-0`
+- new version: `1.1.5-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.0`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## video_stream_opencv (noetic) - 1.1.5-3
 
 The packages in the `video_stream_opencv` repository were released into the `noetic` distro by running `/usr/local/bin/bloom-release --rosdistro noetic --track noetic video_stream_opencv` on `Mon, 07 Dec 2020 12:29:23 -0000`
