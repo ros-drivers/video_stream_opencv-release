@@ -1,3 +1,5 @@
+# video_stream_opencv  ![](https://travis-ci.com/ros-drivers/video_stream_opencv.svg?branch=master)
+
 A package to view video streams based on the [OpenCV VideoCapture module](http://docs.opencv.org/modules/highgui/doc/reading_and_writing_images_and_video.html#videocapture), easy way to publish on a ROS Image topic (including camera info) usb cams, ethernet cameras, video streams or video files. It also supports flipping of images and fps throttling.
 
 ![Screenshot of the plugin working with a webcam, video stream and video file](https://raw.githubusercontent.com/pal-robotics/video_stream_opencv/master/screenshot_usage.png)
@@ -80,6 +82,8 @@ If you want to publish all images (don't drop any and you don't mind some possib
  * `flip_vertical`: flip vertically the image (upside down).
  * `loop_videofile`: if the provider is a video file, enable loop playback.
  * `width` and `height`: force a width and height to the capturing device (if it allows), 0 means no forcing.
+ * `start_frame`: if the provider is a video file, set the start frame of video.
+ * `stop_frame`: if the provider is a video file, set the stop frame of video. `-1` means the end of the video. Also setting `stop_frame = start_frame + 1`  can publish a single frame with a certain rate.
 
 # Extras
 
